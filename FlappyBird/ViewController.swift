@@ -19,7 +19,8 @@ class ViewController: UIViewController {
         skView.showsFPS = true
         
         skView.showsNodeCount = true
-        
+        //physicsBodyの可視化
+        //skView.showsPhysics = true
         let scene = GameScene(size:skView.frame.size)
         
         skView.presentScene(scene)

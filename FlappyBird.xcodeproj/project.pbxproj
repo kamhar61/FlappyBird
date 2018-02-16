@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4945BC5A20356D9000418A80 /* itemget.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4945BC5920356D9000418A80 /* itemget.mp3 */; };
 		4953C4FA2031425F002DD996 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4953C4F92031425F002DD996 /* AppDelegate.swift */; };
 		4953C4FC2031425F002DD996 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4953C4FB2031425F002DD996 /* ViewController.swift */; };
 		4953C4FF2031425F002DD996 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4953C4FD2031425F002DD996 /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4945BC5920356D9000418A80 /* itemget.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = itemget.mp3; sourceTree = SOURCE_ROOT; };
 		4953C4F62031425F002DD996 /* FlappyBird.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FlappyBird.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4953C4F92031425F002DD996 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4953C4FB2031425F002DD996 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				4953C5022031425F002DD996 /* LaunchScreen.storyboard */,
 				4953C5052031425F002DD996 /* Info.plist */,
 				4953C50B203143C1002DD996 /* GameScene.swift */,
+				4945BC5920356D9000418A80 /* itemget.mp3 */,
 			);
 			path = FlappyBird;
 			sourceTree = "<group>";
@@ -126,6 +129,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4945BC5A20356D9000418A80 /* itemget.mp3 in Resources */,
 				4953C5042031425F002DD996 /* LaunchScreen.storyboard in Resources */,
 				4953C5012031425F002DD996 /* Assets.xcassets in Resources */,
 				4953C4FF2031425F002DD996 /* Main.storyboard in Resources */,
